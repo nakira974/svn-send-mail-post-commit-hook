@@ -11,8 +11,8 @@ namespace post_commit
 {
     internal  class Program
     {
-        private static readonly string FromAddress = "svn-groupe@gueudet.fr";
-        private static readonly string ToAddress = "svn-groupe@gueudet.fr";
+        private static readonly string FromAddress = "svn-groupe@yourcompany.fr";
+        private static readonly string ToAddress = "svn-groupe@yourcompany.fr";
         private static readonly string Title = "New commit from ";
         private static readonly string Body = "Revision n°";
     
